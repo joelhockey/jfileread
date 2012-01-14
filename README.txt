@@ -1,0 +1,1 @@
+java applet ro read files into browser
